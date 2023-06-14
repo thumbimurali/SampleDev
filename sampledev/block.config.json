@@ -3,8 +3,8 @@
   "name": "sampledev",
   "type": "ui-container",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/thumbimurali/SampleDev.git",
+    "ssh": "git@github.com:thumbimurali/SampleDev.git",
     "branch": "block_sampledev"
   },
   "parentBlockIDs": [
