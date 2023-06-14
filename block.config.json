@@ -1,0 +1,21 @@
+{
+  "name": "SampleDev",
+  "type": "package",
+  "blockId": "5_b-UokNY4rnjYTKYmO1v",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_SampleDev"
+  },
+  "parentBlockIDs": [],
+  "isPublic": false,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "sampledev": {
+      "directory": "sampledev"
+    }
+  }
+}

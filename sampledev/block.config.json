@@ -1,0 +1,21 @@
+{
+  "blockId": "V5VIaO04nTAOnhKF_6N3W",
+  "name": "sampledev",
+  "type": "ui-container",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_sampledev"
+  },
+  "parentBlockIDs": [
+    "5_b-UokNY4rnjYTKYmO1v"
+  ],
+  "repoType": "mono",
+  "language": "js",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": false,
+  "start": "npx webpack-dev-server",
+  "build": "npx webpack"
+}
